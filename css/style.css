@@ -1,0 +1,19 @@
+.text-primary{ color: darkgreen !important;}
+
+.backbtn { 
+    background-color:#007bff;
+    border-color: #007bff;
+padding: 3px;
+border-radius: 10% ;
+width: 100px;
+
+ }
+
+ .btn1:hover { background-color:#e5ecf3;
+    border-color: #007bff ; 
+
+ }
+
+ body{
+     padding: 10px
+ }
